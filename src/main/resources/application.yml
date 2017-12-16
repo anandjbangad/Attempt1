@@ -3,3 +3,5 @@ kafka:
   topic:
     helloworld: helloworld.t
     test123 : test123
+    cloudNode: cloudTopic
+    deviceNode: deviceTopic
